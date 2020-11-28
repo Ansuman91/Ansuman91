@@ -5,14 +5,13 @@ I am an experienced product developer with ample industry experience in product 
 
 ## ✉️ Find me on:
 
-
 <p align="center">
  <a href="https://ansuman91.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/ansuman-sahoo/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:asahoo.91@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
-
 <br />
+
 
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -28,8 +27,10 @@ I am an experienced product developer with ample industry experience in product 
  <img src="https://github.com/Ansuman91/Ansuman91/blob/main/gitlab-282507.png" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
  </p>
  
- ## 🧰 Certifications:
-<img src="https://github.com/Ansuman91/Ansuman91/blob/main/kubernetes_crtfctn.PNG" alt="VS Code" height="45" style="vertical-align:top; margin:4px">
+ ## 🏆 Certifications:
+ <p align="center">
+<img src="https://github.com/Ansuman91/Ansuman91/blob/main/kubernetes_crtfctn.PNG" alt="VS Code" height="75" style="vertical-align:top; margin:4px">
+</p>
 
 - 🔭 I’m currently working on Verizon India 
 - 🌱 I’m currently learning Cassandra 
