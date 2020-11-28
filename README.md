@@ -20,7 +20,7 @@ I am an experienced product developer with ample industry experience in product 
 ## 🧰 Languages and Tools:
 <p align="center">
 
- <img src="https://user-images.githubusercontent.com/17251436/100515600-575bdb00-31a3-11eb-9794-657cf252dbaa.png" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/17251436/100515894-9ab74900-31a5-11eb-8055-8d9ffabeff62.png" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
  <img src="https://user-images.githubusercontent.com/17251436/100515765-70b15700-31a4-11eb-9e3a-35a03977e05a.png" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
  <img src="https://user-images.githubusercontent.com/17251436/100515606-5cb92580-31a3-11eb-88e3-05de4ec7b4c1.png" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
  <img src="https://user-images.githubusercontent.com/17251436/100515604-59be3500-31a3-11eb-949b-52d3bc25c4db.png" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
