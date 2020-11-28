@@ -34,7 +34,7 @@ I am an experienced product developer with ample industry experience in product 
 
 - 🔭 I’m currently working on Verizon India 
 - 🌱 I’m currently learning Cassandra 
-- 👯 Open for any colloboration
+- 👯 Open for any collaboration
 - 💬 Can discuss on Java,Microservice,Kubernetes,Design & Development 
 - 📫 How to reach me: asahoo.91@gmail.com 
 - ⚡ Fun fact: Am Good at Cooking 
