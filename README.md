@@ -5,6 +5,7 @@ I am an experienced product developer with ample industry experience in product 
 
 <img align="right" alt="GIF" src="https://github.com/Ansuman91/Ansuman91/blob/main/code.gif" width="500" height="320" />
 
+![](https://visitor-badge.laobi.icu/badge?page_id=ansuman91)
 ## ✉️ Find me on:
 
 <p align="center">
@@ -42,6 +43,5 @@ I am an experienced product developer with ample industry experience in product 
 - ⚡ Fun fact: Am Good at Cooking 
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=ansuman91)
 ![Ansuman's github stats](https://github-readme-stats.vercel.app/api?username=ansuman91&show_icons=true&theme=react)
 
