@@ -16,9 +16,9 @@ I am an experienced product developer with ample industry experience in product 
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://camo.githubusercontent.com/1040512f5bed32cba86a33df3114d495424d2bcaeb95a65efdddf65a5984683b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d626c61636b3f6c6f676f3d6a617661267374796c653d736f6369616c" alt="Java" height="10" style="vertical-align:top; margin:4px">
-<img src="https://camo.githubusercontent.com/2163dfdb4dcdd709cf462a2ae456e563735a7dd9b6a82769cc9a9fd5a32bf71d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537072696e672532304672616d65776f726b2d626c61636b3f6c6f676f3d737072696e67267374796c653d736f6369616c" alt="Javascript" height="10" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="10" style="vertical-align:top; margin:4px">
+<img src="https://camo.githubusercontent.com/1040512f5bed32cba86a33df3114d495424d2bcaeb95a65efdddf65a5984683b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d626c61636b3f6c6f676f3d6a617661267374796c653d736f6369616c" alt="Java" height="20" style="vertical-align:top; margin:4px">
+<img src="https://camo.githubusercontent.com/2163dfdb4dcdd709cf462a2ae456e563735a7dd9b6a82769cc9a9fd5a32bf71d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537072696e672532304672616d65776f726b2d626c61636b3f6c6f676f3d737072696e67267374796c653d736f6369616c" alt="Javascript" height="20" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="20" style="vertical-align:top; margin:4px">
 </p>
 
 - 🔭 I’m currently working on Verizon India 
