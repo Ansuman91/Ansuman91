@@ -21,7 +21,7 @@ I am an experienced product developer with ample industry experience in product 
  <img src="https://github.com/Ansuman91/Ansuman91/blob/main/github.jpg" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
  <img src="https://github.com/Ansuman91/Ansuman91/blob/main/gitlab-282507.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
  <img src="https://github.com/Ansuman91/Ansuman91/blob/main/java.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
- <img src="https://github.com/Ansuman91/Ansuman91/blob/main/jenkins.png" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/Ansuman91/Ansuman91/blob/main/jenkins.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
  <img src="https://github.com/Ansuman91/Ansuman91/blob/main/kubernetes.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
  <img src="https://github.com/Ansuman91/Ansuman91/blob/main/postgresql.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
  <img src="https://github.com/Ansuman91/Ansuman91/blob/main/spring-boot.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
