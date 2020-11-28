@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ansuman
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I am an experienced product developer with ample industry experience in product development. I'm more curious towards trying-out new technology, frameworks which excites me as well .
 
