@@ -20,13 +20,13 @@ I am an experienced product developer with ample industry experience in product 
 ## 🧰 Languages and Tools:
 <p align="center">
 
- <img src="https://github.com/Ansuman91/Ansuman91/blob/main/java.png" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
- <img src="https://github.com/Ansuman91/Ansuman91/blob/main/spring.png" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
- <img src="https://github.com/Ansuman91/Ansuman91/blob/main/spring-boot.png" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
- <img src="https://github.com/Ansuman91/Ansuman91/blob/main/kubernetes.png" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
- <img src="https://github.com/Ansuman91/Ansuman91/blob/main/postgresql.png" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
- <img src="https://github.com/Ansuman91/Ansuman91/blob/main/jenkins.png" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
- <img src="https://github.com/Ansuman91/Ansuman91/blob/main/Git-Icon-1788C.png" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/17251436/100515600-575bdb00-31a3-11eb-9794-657cf252dbaa.png" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/17251436/100515607-5e82e900-31a3-11eb-8498-cf7932e377e8.png" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/17251436/100515606-5cb92580-31a3-11eb-88e3-05de4ec7b4c1.png" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/17251436/100515604-59be3500-31a3-11eb-949b-52d3bc25c4db.png" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/17251436/100515605-5aef6200-31a3-11eb-969c-b5e68d7822a1.png" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/17251436/100515601-57f47180-31a3-11eb-8a30-029cd18d534b.png" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/17251436/100515566-1c59a780-31a3-11eb-97dd-18864b4b9e1d.png" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
  <img src="https://github.com/Ansuman91/Ansuman91/blob/main/github.jpg" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
  <img src="https://github.com/Ansuman91/Ansuman91/blob/main/gitlab-282507.png" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
  </p>
