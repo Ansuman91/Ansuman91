@@ -17,22 +17,24 @@ I am an experienced product developer with ample industry experience in product 
 ## 🧰 Languages and Tools:
 <p align="center">
 
- <img src="https://github.com/Ansuman91/Ansuman91/blob/main/Git-Icon-1788C.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
- <img src="https://github.com/Ansuman91/Ansuman91/blob/main/github.jpg" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
- <img src="https://github.com/Ansuman91/Ansuman91/blob/main/gitlab-282507.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
- <img src="https://github.com/Ansuman91/Ansuman91/blob/main/java.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
- <img src="https://github.com/Ansuman91/Ansuman91/blob/main/jenkins.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
- <img src="https://github.com/Ansuman91/Ansuman91/blob/main/kubernetes.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
- <img src="https://github.com/Ansuman91/Ansuman91/blob/main/postgresql.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
- <img src="https://github.com/Ansuman91/Ansuman91/blob/main/spring-boot.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
- <img src="https://github.com/Ansuman91/Ansuman91/blob/main/spring.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/Ansuman91/Ansuman91/blob/main/java.png" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/Ansuman91/Ansuman91/blob/main/spring.png" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/Ansuman91/Ansuman91/blob/main/spring-boot.png" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/Ansuman91/Ansuman91/blob/main/kubernetes.png" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/Ansuman91/Ansuman91/blob/main/postgresql.png" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/Ansuman91/Ansuman91/blob/main/jenkins.png" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/Ansuman91/Ansuman91/blob/main/Git-Icon-1788C.png" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/Ansuman91/Ansuman91/blob/main/github.jpg" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/Ansuman91/Ansuman91/blob/main/gitlab-282507.png" alt="VS Code" height="35" style="vertical-align:top; margin:4px">
+ </p>
  
-</p>
+ ## 🧰 Certifications:
+<img src="https://github.com/Ansuman91/Ansuman91/blob/main/kubernetes_crtfctn.PNG" alt="VS Code" height="45" style="vertical-align:top; margin:4px">
 
 - 🔭 I’m currently working on Verizon India 
 - 🌱 I’m currently learning Cassandra 
-- 👯 I’m looking to collaborate on Open Source 
-- 💬 Ask me about Java,Microservice,Kubernetes,Design & Development 
+- 👯 Open for any colloboration
+- 💬 Can discuss on Java,Microservice,Kubernetes,Design & Development 
 - 📫 How to reach me: asahoo.91@gmail.com 
 - ⚡ Fun fact: Am Good at Cooking 
 
