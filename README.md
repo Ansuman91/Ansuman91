@@ -6,6 +6,7 @@ I am an experienced product developer with ample industry experience in product 
 <img align="right" alt="GIF" src="https://github.com/Ansuman91/Ansuman91/blob/main/code.gif" width="500" height="320" />
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ansuman91)
+![](https://visitor-badge.glitch.me/badge?page_id=ansuman91)
 ## ✉️ Find me on:
 
 <p align="center">
