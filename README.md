@@ -30,7 +30,7 @@ I am an experienced product developer with ample industry experience in product 
  </p>
  
  ## 🏆 Certifications:
- <p align="right">
+ <p align="left">
 <img src="https://github.com/Ansuman91/Ansuman91/blob/main/kubernetes_crtfctn.PNG" alt="VS Code" height="75" style="vertical-align:top; margin:4px">
 </p>
 
