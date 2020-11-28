@@ -16,6 +16,8 @@ Skills: JAVA / REACT / JS / HTML / CSS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Ansuman91)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ansuman-sahoo//)  
 
 ![Ansuman's github stats](https://github-readme-stats.vercel.app/api?username=ansuman91&show_icons=true&theme=react)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ansuman91&repo=github-readme-stats)](https://github.com/ansuman91/github-readme-stats)
+
 
 
 
